@@ -1,0 +1,1 @@
+Cloudflare Worker responsável pelo OAuth GitHub, sessões e proxy autenticado. Consulte o README raiz para configuração.
